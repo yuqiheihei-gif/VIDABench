@@ -1,0 +1,12 @@
+numpy==2.4.4
+opencv_contrib_python==4.11.0.86
+opencv_contrib_python_headless==4.11.0.86
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+pandas==3.0.2
+Pillow==12.2.0
+qwen_vl_utils==0.0.14
+Requests==2.33.1
+torch==2.8.0
+tqdm==4.67.1
+transformers==4.57.0
