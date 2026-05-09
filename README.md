@@ -28,11 +28,16 @@ pip install -r requirements.txt
 
 ### 2. Run Evaluation
 To evaluate the Grounding capability, run:
+```bash
 python evaluate_grounding.py
+
 To evaluate the Perception capability, run:
+```bash
 python evaluate_perception.py
 To evaluate the Single-step Navigation capability, run:
+```bash
 python run_singlestep.py & python evaluate_singlestep.py
 To evaluate the Multi-step Navigation capability, run:
+```bash
 python run_multistep.py & python evaluate_multistep.py
 To evaluate the Dynamic Navigation capability, please call lanxun
