@@ -22,7 +22,6 @@ Please download the VIDABench dataset before running the evaluation.
 
 ### 1. Install Dependencies
 ```bash
-# 填写你需要安装的包，比如：
 pip install -r requirements.txt
 ```
 
