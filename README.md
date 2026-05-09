@@ -24,6 +24,7 @@ Please download the VIDABench dataset before running the evaluation.
 ```bash
 # 填写你需要安装的包，比如：
 pip install -r requirements.txt
+```
 
 ### 2. Run Evaluation
 To evaluate the Grounding capability, run:
